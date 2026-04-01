@@ -1,0 +1,34 @@
+# GitHub Greener Progress
+
+- [ ] Project Setup
+  - [x] Analyze PRD and Requirements
+  - [x] Initialized progress.txt
+  - [x] Update pubspec.yaml with dependencies
+  - [x] Create folder structure
+- [x] Service Layer
+  - [x] Storage Service (Secure Storage for PAT)
+  - [x] GitHub Service (GraphQL & REST API)
+  - [x] AI Service (Claude/OpenAI suggestions)
+- [x] Models
+  - [x] UserProfile Model
+  - [x] Contribution Day Model
+  - [x] Suggestion Model
+- [x] State Management (Riverpod)
+  - [x] Auth Provider
+  - [x] Contributions Provider
+  - [x] Suggestions Provider
+- [x] UI - Screens
+  - [x] Onboarding Screen (PAT validation)
+  - [x] Home Screen (Grid + Streaks)
+  - [x] Heatmap Screen (Activity Charts)
+  - [x] Suggestions Screen (AI-powered tips)
+  - [x] Settings Screen (Management)
+- [x] UI - Widgets
+  - [x] Contribution Grid
+  - [x] Streak Cards
+  - [x] Activity Bar Chart
+  - [x] Suggestion Card
+- [x] Final Polish
+  - [x] Navigation (GoRouter)
+  - [x] Local Notifications (Skipped due to PRD V1 notes / OS specifics for now)
+  - [x] App Icon and Theme
